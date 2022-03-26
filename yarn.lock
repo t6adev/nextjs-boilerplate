@@ -1549,7 +1549,7 @@ babel-plugin-dynamic-import-node@^2.3.3:
   dependencies:
     object.assign "^4.1.0"
 
-babel-plugin-styled-components@^1.10.7:
+babel-plugin-styled-components@1.10.7:
   version "1.10.7"
   resolved "https://registry.yarnpkg.com/babel-plugin-styled-components/-/babel-plugin-styled-components-1.10.7.tgz#3494e77914e9989b33cc2d7b3b29527a949d635c"
   integrity sha512-MBMHGcIA22996n9hZRf/UJLVVgkEOITuR2SvjHLb5dSTUyR4ZRGn+ngITapes36FI3WLxZHfRhkA1ffHxihOrg==
@@ -4129,9 +4129,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 minipass-collect@^1.0.2:
   version "1.0.2"
